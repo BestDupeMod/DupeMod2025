@@ -22,18 +22,22 @@ DupeChecker mod for hypixel skyblock
 **Note: The standalone jar does not work for the latest release**
 
 ## How does it work?
-While in-game type '**/dupecheck**'! Our mod will send a request to [our api](https://dupecheck.pythonanywhere.com/) to check if an item with the same uuid has already been registered by another user, it will then enter in chat its suspicions about the item.
+While in-game type '**/dupecheck**'! Our mod will send a request to our api to check if an item with the same uuid has already been registered by another user, it will then enter in chat its suspicions about the item.
 
-[The API](https://dupecheck.pythonanywhere.com/) will also update it's database with YOUR items! This means that the more people using the mod, the more accurate our model will be!
+The API will also update it's database with YOUR items! This means that the more people using the mod, the more accurate our model will be!
 
 ## How to install?
-We made yall an easy to follow guide [live on figma](https://www.figma.com/design/NTitSnLidfVPQ9Ye4x3Jv1/DupeChecker-mod-installation-Guide?node-id=0-1&t=Wj8NomROPypdzxn3-1) with full download & use instructions.
+We made yall an easy to follow guide with full download & use instructions:
 
-**Note: if you are not familiar with figma:**
-- ctrl + scroll to zoom in/out
-- Scroll to move up/down
-- Hold middle click to move the whole screen
+✅ Guide how to run the mod! ✅
+ 1. Download Forge 1.8.9
+ 2. Go to \AppData\Roaming\.minecraft
+ 3. Put the downloaded mod in the mods folder
+ 4. In the minecraft launcher, select the version of minecraft 1.8.9 forge
+ 5. And start minecraft
+ 6. Enjoy the game!
 
+## If any question write in discord: shrekonskyblock
 
 ## We encourage you to try & verify authenticity yourself.
 
